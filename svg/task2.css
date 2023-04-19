@@ -1,0 +1,14 @@
+.button {
+    width: 120px;
+    height: 30px;
+    border: 1px solid;
+}
+
+.icon1 {
+    width: 20px;
+    height: 20px;
+}
+
+.second-icon {
+    display: none;
+}
